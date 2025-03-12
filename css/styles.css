@@ -84,6 +84,10 @@ line-height: 1.5;
 cursor: pointer;
 }
 
+.hero-btn:hover {
+    background-color: #404BBF;
+}
+
 .goal-title{
 font-weight: 500;
 font-size: 20px;

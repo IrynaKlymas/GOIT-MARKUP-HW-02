@@ -113,9 +113,10 @@ box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.1
 .name-people{
 font-weight: 500;
 font-size: 20px;
-line-height: 1.2;
+line-height: 1.11;
 letter-spacing: 0.02em;
 text-align: center;
+text-transform: capitalize;
 color: #2E2F42;
 }
 
@@ -164,10 +165,11 @@ font-weight: 500;
     color: #f4f4fd;
 }
 
-.footer-title{
+.footer-title {
 font-weight: 400;
 font-size: 16px;
 /* line-height: 24px; */
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #f4f4fd;
+}

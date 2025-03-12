@@ -109,6 +109,10 @@ color: #434455;
 background-color: #f4f4fd;;
 }
 
+.photo {
+    background-color: #FFFFFF;
+}
+
 .photo-team{
 border-radius: 0 0 4px 4px;
 padding: 0px 0px 32px 0px;

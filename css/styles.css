@@ -113,11 +113,11 @@ background-color: #f4f4fd;;
     background-color: #FFFFFF;
 }
 
-.photo-team{
+/*.photo-team{
 border-radius: 0 0 4px 4px;
 padding: 0px 0px 32px 0px;
 box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
-}
+}*/
 
 .name-people{
 font-weight: 500;
@@ -186,7 +186,6 @@ font-weight: 500;
 .footer-title {
 font-weight: 400;
 font-size: 16px;
-/* line-height: 24px; */
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #f4f4fd;
